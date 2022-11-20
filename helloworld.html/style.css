@@ -1,4 +1,10 @@
 body{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-color: aqua;
+color:white;
+background-color: black;
+}
+.heading{
+    color: crimson;
+    font-style:oblique;
+    background-color: aqua;
 }
