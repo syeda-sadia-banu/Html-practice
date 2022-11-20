@@ -19,11 +19,16 @@ background-color: black;
     clear: both;
     display: table;
    */
-  }
+  
   *{
     box-sizing: border-box;
   }
   .row{
     display:flex;
    
+  }
+  table, tr, td,caption{
+    border: 2px solid brown;
+    border-collapse: collapse;
+    
   }
